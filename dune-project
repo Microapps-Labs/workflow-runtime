@@ -10,8 +10,8 @@
  (authors OlegHQ)
  (maintainers OlegHQ)
  (license MIT)
- (homepage "https://github.com/OlegHQ/workflow-runtime")
- (bug_reports "https://github.com/OlegHQ/workflow-runtime/issues")
+ (homepage "https://github.com/Microapps-Labs/workflow-runtime")
+ (bug_reports "https://github.com/Microapps-Labs/workflow-runtime/issues")
  (depends
   (ocaml (>= 5.2.0))
   (dune (>= 3.22))

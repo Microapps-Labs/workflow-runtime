@@ -1,0 +1,4 @@
+In-memory workflow, no external storage
+Claimed demo-1 as running
+Final state: succeeded
+Memory_backend does not survive process exit.
