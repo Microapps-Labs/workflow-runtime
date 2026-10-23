@@ -16,7 +16,7 @@ Use an OCaml 5.2 or later opam switch and Dune 3.22 or later:
 ```sh
 git clone https://github.com/Microapps-Labs/workflow-runtime.git
 cd workflow-runtime
-opam install dune yojson alcotest
+opam install "dune>=3.22" yojson alcotest
 opam exec -- dune exec examples/demo/main.exe
 opam exec -- dune exec test/test_workflow_runtime.exe
 ```
